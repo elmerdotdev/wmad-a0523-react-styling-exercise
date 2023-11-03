@@ -1,8 +1,6 @@
-# React + Vite
+# React Bootstrap Exercise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Pull the products from [https://dummyjson.com/products]
+2. List all the products
+3. Inside ListItem, display the name of the product on the left and a Bootstrap button on the right with the label 'View Product'
+4. Clicking the button will open a Bootstrap modal showing the product name and description
